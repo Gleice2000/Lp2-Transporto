@@ -1,4 +1,4 @@
-# Lp2-Transporto
+# Lp2-Trasporto
 
 Atividades de revisão para a prova, feito na linguagem Java!
 
