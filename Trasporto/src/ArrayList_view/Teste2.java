@@ -4,10 +4,6 @@ import ArrayList_model.Caminhoneiro2;
 import ArrayList_model.Carreta2;
 import ArrayList_model.Cliente2;
 import ArrayList_model.Viagem2;
-import model.Caminhoneiro;
-import model.Carreta;
-import model.Cliente;
-import model.Viagem;
 
 public class Teste2 {
     public static void main(String[] args) {
